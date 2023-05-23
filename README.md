@@ -16,3 +16,13 @@ QPSK、16QAM、64QAMのシミュレータを作成し、それぞれのビット
 
 ## doc3_1.py
 BPSK,QPSKのOFDMシミュレータを作成し、ビット謝り率(BER)で評価しました。
+
+## doc4_1.py
+
+## doc4_2.py
+
+## doc5.py
+
+## doc6_MMSE.py
+
+## doc6_ZF.py
